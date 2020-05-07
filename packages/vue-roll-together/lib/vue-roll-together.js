@@ -3,5 +3,5 @@
 module.exports = vueRollTogether;
 
 function vueRollTogether() {
-    // TODO
+    console.log(2222);
 }
