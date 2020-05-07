@@ -1,0 +1,24 @@
+{
+  "name": "@yat/vue-scroll-together",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yat122/yat-util.git"
+  },
+  "keywords": [
+    "vue",
+    "scroll",
+    "together"
+  ],
+  "author": "yat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yat122/yat-util/issues"
+  },
+  "homepage": "https://github.com/yat122/yat-util#readme"
+}
