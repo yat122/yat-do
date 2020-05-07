@@ -1,5 +1,5 @@
 {
-  "name": "@yat/vue-scroll-together",
+  "name": "@yat/vue-roll-together",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,7 @@
   "keywords": [
     "vue",
     "scroll",
+    "roll",
     "together"
   ],
   "author": "yat",
