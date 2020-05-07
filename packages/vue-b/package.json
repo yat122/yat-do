@@ -1,0 +1,26 @@
+{
+  "name": "vue-b",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "杨童 <yangtong@jiangduoduo.com>",
+  "homepage": "https://github.com/yat122/yat-util#readme",
+  "license": "ISC",
+  "main": "lib/vue-b.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yat122/yat-util.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/yat122/yat-util/issues"
+  }
+}
