@@ -12,7 +12,7 @@
       "allowBranch": "master"
     }
   },
-  "publicConfig": {
+  "publishConfig": {
     "access": "public"
   }
 }
