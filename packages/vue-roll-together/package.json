@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/yat122/yat-do/issues"
   },
-  "gitHead": "9630378f9746789b548a99093791dd972ab05f02"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "70ff32f85d4e65d51db6c00bc3d08b68076bc960"
 }
